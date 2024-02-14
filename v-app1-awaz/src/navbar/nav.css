@@ -1,0 +1,11 @@
+.float-end,
+.nav-link,
+.navbar-brand {
+    font-size: 20px !important;
+}
+
+.menuPageText {
+    font-size: 10rem; /* Adjust the font size as needed */
+  }
+
+/* .navbar-brand .nav-link  */

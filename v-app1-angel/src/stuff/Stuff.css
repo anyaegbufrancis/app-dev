@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    height: 1360px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: scroll !important;
+  }
+  
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+  
+.centered-image {
+    width: 310px;
+    height: 460px;
+    margin-top: 20px;
+    border: 0.1rem solid red; 
+    border-radius: 30%;
+    object-fit: cover; 
+}
+  
+.poem-container {
+    margin-top: 20px;
+    text-align: center;
+    max-width: 600px; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+  
